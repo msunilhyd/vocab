@@ -5,7 +5,7 @@
 Before 06-Oct-17
 
 	1.Ubiquitous   = Found everywhere
-			Usage = Nowadays android is ubiquitous.
+			Usage  = Nowadays android is ubiquitous.
 
 
 	2.Vitiate      = Reduce the efficency
@@ -23,7 +23,7 @@ Before 06-Oct-17
 
 
 	5.Nevertheless = In spite of
-			Usage  = The 16th Batallion in Ceaser's army fought bravely, nevertheless they suffered huge 			 losses in Germania. 
+			Usage  = The 16th Batallion in Ceaser's army fought bravely, nevertheless they suffered huge losses in Germania. 
 
 	
 06-Oct-17 = Friday
@@ -153,130 +153,130 @@ Before 06-Oct-17
 
 13-Nov-17 = Monday 
 
-	1.Tepid = showing little enthusiasm
+	1.Tepid = Showing little enthusiasm
 		Usage = Reliance communications q2 earnings invoked tepid reactions from the investors.
 
-	2.Stubble = short hairs on a man's face when he has not shaved for a while.
+	2.Stubble = Short hairs on a man's face when he has not shaved for a while.
 		Usage = She ran her fingers over his cheeks full of stubble.
 
-14Nov17 = Tuesday
-	1.Competent = having the skill or ability to do a thing sucessfully.
+14-Nov-17 = Tuesday
+	1.Competent = Having the skill or ability to do a thing sucessfully.
 		Usage = Why incompetent people think they are amazing.
 
-	2. Scurrilous = making scandalous claims with the intention of damaging one's reputation.
+	2. Scurrilous = Making scandalous claims with the intention of damaging one's reputation.
 		Usage = Charges against Chief Justice of India are scurrilous = SC bench.
 
-15Nov17 = Wednesday
-	1.Pare = trim by cutting away its outer edges.
+15-Nov-17 = Wednesday
+	1.Pare = Trim by cutting away its outer edges.
 		Usage = Bharti Airtel off loads 3k crore in Bharti infratel to pare its debt. 
 
-	2.Bicker = argue about petty and trivial matters.
+	2.Bicker = Argue about petty and trivial matters.
 		Usage = Marriage is all about bickering.
 
-	3.Embattled = involved in war
-		Usage = Same sex marriage result in Australia is good news for an embattled Turnbull.
+	3.Embattled = Involved in war
+		Usage = Same sex marriage result in Australia is good news for an Embattled Turnbull.
 
-28Nov17 = Tuesday
-	1.Repression = taking something by force
-		Usage = Was Che Gu Vara a revolutionary icon or a force of repression.
+28-Nov-17 = Tuesday
+	1.Repression = Taking something by force
+		Usage = Was Che Gu Vara a revolutionary icon or a force of Repression.
 
-04Dec17 = Monday
-	1.Recluse = a person living a solitary life
+04-Dec-17 = Monday
+	1.Recluse = Person living a solitary life
 		Usage = Daniel Craig will be playing a recluse in the 2017 movie 'Kings'.
 
-	2.Contingency = a circumstance that is expected but not with sureity.
+	2.Contingency = Circumstance that is expected but not with sureity.
 		Usgae = FBI put tabs on Borat. So, Sacha Baron Cohen had some contingency 
 				 plans for them.
 
-	3.Trivia = details, considerations that need to be taken into account 
-			    although of little importance.
+	3.Trivia = Details, considerations that need to be taken into account 
+			   although of little importance.
 		Usage = The Big Data lecture had had a lot of trivia to offer.
 
-05Dec17 = Tuesday
-	1.epiphany = a moment of sudden and great realization or revelation.
+05-Dec-17 = Tuesday
+	1.Epiphany = Moment of sudden and great realization or revelation.
 		Usage = Neo in The Matrix had an epiphany that the Matrix is'nt real 
 				 and that it is just a simulation.
 
-	2.Voracious = devouring or wanting great quantities of food.
+	2.Voracious = Devouring or wanting great quantities of food.
 		Usage = The Tiger Shark in the Pacific Islands are known to be 
-				 voracious.
+				 Voracious.
 
-	3.Ferociously = in a savagely fierce manner.
-		Usage = Yemen is facing a ferociously fast spreading Cholera outbreak. 
+	3.Ferociously = Savagely fierce in manner.
+		Usage = Yemen is facing a Ferociously fast spreading Cholera outbreak. 
 
-	4.Impoverish = make a person poor.
+	4.Impoverish = Make a person poor.
 		Usage = An Impoverished Yemen.
 
-	5.Impromptu = not practised or rehearsed.
-		Usage= The impromptu example of the wormhole by David Gyasi in Interstellar.
+	5.Impromptu = Not practised or rehearsed.
+		Usage= The Impromptu example of the wormhole by David Gyasi in Interstellar.
 
-	6.Imbue = inspire
-		Usage = The Principal's speech was imbuing.
+	6.Imbue = Inspire
+		Usage = The Principal's speech was Imbuing.
 
-	7.Communion = the sharing of intimate thoughts and feelings at an intellectual and 
-					sprititual level.
+	7.Communion = Sharing of intimate thoughts and feelings at an intellectual and 
+				  sprititual level.
 		Usage = It was the communion of the 3 mother boxes that rebore the mother
-				 of Steppenwolf.
+				of Steppenwolf.
 
-	8.Plausible = reasonable.
+	8.Plausible = Reasonable.
 		Usage = The actual ending of the Justice League sounds plausible rather.
 
-	9.Posit = put forward as an argument.
-		Usage = Joss Wedon has posited the vision points he had for the Justice League 
+	9.Posit = Put forward as an argument.
+		Usage = Joss Wedon has Posited the vision points he had for the Justice League 
 				 to Warner Bros. 
 
-	10.Exemplify = explain with an example.
+	10.Exemplify = Explain with an example.
 		Usage = The concepts of Relativity have been exemplified 
-				 in the movie Interstellar.
+				in the movie Interstellar.
 
-	11.Tangible = felt by touch.
+	11.Tangible = Felt by touch.
 		Usage = The tangible effect of gravity on space and time.
 
-	12.Battering = striking repeatedly with hard blows.
+	12.Battering = Striking repeatedly with hard blows.
 		Usage = A Battering Gattuso.
 
-	13.Languid = not willing to put much physical effort.
+	13.Languid = Not willing to put much physical effort.
 		Usage = A languid Pirlo.
 
 	14.Pantomime = Entertainment consisting of jokes, songs etc for children.
 		Usage = Gattuso was one of Football's Pantomime villains. 
 
-06Dec17 = Wednesday 
-	1.Insolvent = unable to pay debts.
-		Usage = An insolvent Vijay Malya.
+06-Dec-17 = Wednesday 
+	1.Insolvent = Unable to pay debts.
+		Usage = An Insolvent Vijay Malya.
 
-	2.Retrospectively = with consideration of past events.
-		Usage = Medical Reports were retrospectively reviewed on 120 patients.
+	2.Retrospectively = With consideration of past events.
+		Usage = Medical Reports were Retrospectively reviewed on 120 patients.
 
-07Dec17 = Thursday 
-	1.Brevity = exact use of words in speech or writing, shortness of time
+07-Dec-17 = Thursday 
+	1.Brevity = Exact use of words in speech or writing, shortness of time
 		Usage = I have left out the getters and setters in the POJO because
-				 of brevity.
+				of brevity.
 
 
-13Dec17 = Wednesday
-	1.Broth = soup that is cooked of vegetables and meat.
-		Usage = Late arrangements only added in the broth of the World Telugu Conference
-			organised by the Telangana Govt.
+13-Dec-17 = Wednesday
+	1.Broth = Soup that is cooked of vegetables and meat.
+		Usage = Late arrangements only added in the Broth of the World Telugu Conference
+			    organised by the Telangana Govt.
 
 	2.Sporadic = Occuring only at certain times and places.
-		Usage = From victim to crusader = Kausalya Shankar's sporadic journey of depression
+		Usage = From victim to crusader : Kausalya Shankar's Sporadic journey of depression
 					culminated in taking up activism against castehate killings.
 
 	3. Culminate = Reach the climax
-		Usage = My bachelor life has been culminated with my marriage to Shravanti.
+		Usage = My bachelor life has been Culminated with my marriage to the girl friend.
 
-14Dec17 = Thursday
+14-Dec-17 = Thursday
 	1.Disembowel = Cut open the internal organs of 
 		Usage = Jisha's murder case.
 
-15Dec17 = Friday
+15-Dec-17 = Friday
 	1.Bonhomie = Extreme friendliness
-		Usage = KTR's new bonhomie  Chandra Babu Naidu
+		Usage = KTR's new bonhomie Chandra Babu Naidu
 
 	2.Exhort  = Urge or encourage to do something
-		Usage = R.Krishnayya exhorted the BC community to hit the 
-				streets against the Kapu Quota.
+		Usage = Dr.B.R.Ambedkar exhorted the oppressed classes to educate themselves as it is the only medium for
+				addressing their backwardness.
 
 	3.Misnomer = Wrong designation
 		Usage  = Ronaldo's fifth BallonDor is not a misnomer of his current status at Real Madrid.
@@ -284,67 +284,67 @@ Before 06-Oct-17
 	4.Prolific = Present in large numbers
 		Usage  = Ronaldo currently is not a prolific scorer he used to be. 
 
-16Dec17 = Saturday
+16-Dec-17 = Saturday
 	1.Autism = Difficulty in communicating with others. A condition form early childhood.
-		Usage = Taare Zameen per, autism.
+		Usage = Taare Zameen per.
 
-18Dec17 = Monday
+18-Dec-17 = Monday
 	1.Fiduciary = Involving trust between a beneficiary and trustee.
 		Usage = Vani Kola's fiduciary relations with the board of Snapdeal.  
 
 	2.Cascade = Chain reaction kind of effect, or that of a waterfall.
 		Usage = Team leads whose reportees do not have the access to lotus notes
-				should cascade this email.
+				should Cascade this email.
 
-	3.Ligature = a rope or a tie that is used to bind things tightly
-		Usage = The billionare couple from Toronto died of ligature neck compression.
+	3.Ligature = Rope or a tie that is used to bind things tightly
+		Usage = The billionare couple from Toronto died of Ligature neck compression.
 
-	4.Gullible = easily pursuaded to believe in something.
+	4.Gullible = Easily pursuaded to believe in something.
 		Usage = The Gullible stock investing amateurs.
 
 
-19Dec17 = Tuesday 
+19-Dec-17 = Tuesday 
 	1.Stemmed = Having a support stick etc.. 
-		Usage = Our money plant has been stemmed with a plastic pipe. 
+		Usage = Our money plant has been Stemmed with a plastic pipe. 
 
-22Dec17 = Friday 
+22-Dec-17 = Friday 
 	1.Rebuke  = Express sharp criticism.
-		Usage = Catalan separatists win election in rebuke to Spain.
+		Usage = Catalan separatists win election in Rebuke to Spain.
 
-05Jan18 = Friday
-	1.Rumination = a deep or considered thought about something.
+05-Jan-18 = Friday
+	1.Rumination = Deep or considered thought about something.
 		Usage = Lack of sleep less than 8 hours a day causes 
-				depression and rumination.
-08Jan18 = Monday
-	1.Nix = put an end to.
+				depression and Rumination.
+08-Jan-18 = Monday
+	1.Nix = Put an end to.
 		Usage = The Govt nixed 32000 crore 'Make in India' project.
 
-	2.Assail = make a violent attack on
+	2.Assail = Make a violent attack on
 		Usage = Trump assails 'Fake Book' allegations while allies flood with praises. 
 
-	3.Concerted = jointly arranged or carried out.
-		Usage = Trump made a concerted attack on his book critiques.
+	3.Concerted = Jointly arranged or carried out.
+		Usage = Trump made a Concerted attack on his book critiques.
 
-09Jan18 = Tuesday
-	1.Heckle = interrupt with a derisive or abusing comment.
+09-Jan-18 = Tuesday
+	1.Heckle = Interrupt with a derisive or abusing comment.
 		Usage = Karnataka woman heckled over befriending Muslim man
 				hangs self.
 
-	2.Wreak = cause a lot of damage 
-		Usage = Meltdown and Spectre vulnerabilities have wreaked 
+	2.Wreak = Cause a lot of damage 
+		Usage = Meltdown and Spectre vulnerabilities have wreaked a plethora of systems in production. 
 
-10-Jan = Wednesday
-	1.Ensconce = settle in a comfortable place.
+10-Jan-18 = Wednesday
+	1.Ensconce = Settle in a comfortable place.
 		Usage = The young Dalit conscience has the potential to replace
-				the old and tired Dalit leaders ensconced in the 
+				the old and tired Dalit leaders Ensconced in the 
 				Parliamentary space.
 
-	2.Spurn = reject with disdain, contempt.
+	2.Spurn = Reject with disdain, contempt.
 		Usage = Youth kills girl for spurning his advances.
 
-16-Jan = Tuesday 
-	1.Emaciated = abnormally thin or weak.
-		Usage = An emaciated Rebecca, who has escaped from her parents who kept 
+16-Jan-18 = Tuesday 
+	1.Emaciated = Abnormally thin or weak.
+		Usage = An Emaciated Rebecca, who has escaped from her parents who kept 
 				her and her 12 siblings in captivity in California.
 
 
@@ -658,3 +658,32 @@ Before 06-Oct-17
 
 		6.Pleasance = A separated part of a Garden generally in a big house.
 			Usage = On his journey for alms, The Blessed One took abode in Anathapindika's Pleasance.
+
+
+	31-Jul-18 : Tuesday
+		1.Detriment = State of being harmed or damaged.
+			Usage = The Buddha says that his religion is not a revelation. It is the discovery of the the investigations and inquiries
+					into human life on Earth.
+
+		2.Intercession = Involvement on the behalf of the other.
+			Usage = The salvation in the religions - Christianity and Islam is achieved through the intercession of the Prophet.
+
+		3.Malevolence = Filled with spite
+			Usage = He who knows that he has malevolence and that he knows how can it arise and how can it be abandoned, once arised
+					and is pure in mind, body and speech, Sin-Washer is the name Men give to him.
+
+		4.Hankering = Strong desire to possess something.
+					A monk abides contemplating the body as body, streneous, mindful and self-possessed having overcome bothe the 
+					hankering and discontent in the the world.
+
+		5.Streneous = Requiring great effort.
+					It was thought by me in childhood, based on the texts presented to us about abiding by Buddhism, that it was too
+					Streneous a task for a man to abide, now that I know what is enlightenment, I change my presumption of not only
+					Buddhism, but life as contemplated by sense.
+
+		6.Slander = Speech that is based on false premises, that damages one's reputation.
+					The Man that is pure in mind is not a slanderer and is not an idle-blabberer.
+
+		7.Aversion = Strong dislike or dis-inclination
+					To all the things that are on fire which are because of Passion, the Noble man creates Aversion and by this aversion
+					he becomes divested of passion and by this he becomes free and he becomes aware that he is free.
